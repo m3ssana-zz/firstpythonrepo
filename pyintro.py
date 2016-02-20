@@ -113,18 +113,17 @@ raspberry_pi_is_expensive = False
 
 # We can also compare two variables using ==
 
-bobs_age = 15
-# your_age =  # fill in your age
-
-# print(your_age == bobs_age)  # this prints either True or False
+bobs_age = 99
+your_age = 15 # fill in your age
+print(your_age == bobs_age)  # this prints either True or False
 
 # GO!
 
 # 11. We can use less than and greater than too - these are < and >
 
-# bob_is_older = bobs_age > your_age
+bob_is_older = bobs_age > your_age
 
-# print(bob_is_older)  # do you expect True or False?
+print(bob_is_older)  # do you expect True or False?
 
 # GO!
 
@@ -142,7 +141,7 @@ if can_afford_both:
 else:
     message = "You can't afford both devices"
 
-# print(message)  # what do you expect to see here?
+print(message)  # what do you expect to see here?
 
 # GO!
 
