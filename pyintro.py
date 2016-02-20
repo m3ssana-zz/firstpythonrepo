@@ -77,9 +77,9 @@ print(message)
 
 # 8. Try adding a number and a string together and you get an error:
 
-# age =  # enter your age here (as a number)
+age = 99 # enter your age here (as a number)
 
-# print(name + ' is ' + age + ' years old')
+#print(name + ' is ' + age + ' years old')
 
 # GO!
 
@@ -89,7 +89,7 @@ print(message)
 
 # 9. We can convert numbers to strings like this:
 
-# print(name + ' is ' + str(age) + ' years old')
+print(name + ' is ' + str(age) + ' years old')
 
 # GO!
 
@@ -97,9 +97,9 @@ print(message)
 
 # Or we could just make sure we enter it as a string:
 
-# age =  # enter your age here, as a string
+age = '99' # enter your age here, as a string
 
-# print(name + ' is ' + age + ' years old')
+print(name + ' is ' + age + ' years old')
 
 # GO!
 
