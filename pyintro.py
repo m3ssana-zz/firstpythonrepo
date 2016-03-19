@@ -163,7 +163,8 @@ if total_cost <= money:
 else:
     message = "You can't afford 3 raspberry pies"
 
-# print(message)  # what do you expect to see here?
+
+print(message)  # what do you expect to see here?
 
 # GO!
 
